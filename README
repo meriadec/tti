@@ -1,0 +1,14 @@
+usage:
+
+  tti <msg> <output>
+
+example:
+
+  tti "LRCSNTHSNTHSNTHS42026094THNSDNSTH" output.png
+
+
+
+
+
+
+and it basically prints the msg content to output, white on black
